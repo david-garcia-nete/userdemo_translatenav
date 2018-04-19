@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Policy Bubble\n"
+"POT-Creation-Date: 2018-04-15 16:10-0400\n"
+"PO-Revision-Date: 2018-04-16 13:15-0400\n"
+"Last-Translator: David Garcia <david.garcia.nete@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ../view\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ../src/Service/NavManager.php:
+msgid "Home"
+msgstr ""
+
+#: ../view/layout/layout.phtml:
+msgid "by"
+msgstr ""
+
+#: ../view/layout/layout.phtml:
+msgid "All rights reserved."
+msgstr ""
+
+#: ../view/layout/layout.phtml:
+msgid "Privacy Policy"
+msgstr ""
+
+#: ../view/layout/layout.phtml:
+msgid "Disclosure Policy"
+msgstr ""
+
+#: ../view/layout/layout.phtml:
+msgid "Terms of Service"
+msgstr ""
+
+#: ../application/index/index.phtml
+msgid "Submit"
+msgstr ""
+
+#: ../application/index/index.phtml
+msgid "Welcome to"
+msgstr ""
+
+#: ../application/index/index.phtml
+msgid "This is a place where policy can be improved."
+msgstr ""
+
+#: ../application/index/index.phtml
+msgid "About"
+msgstr ""
+
+#: ../application/index/index.phtml
+msgid "Learn about Policy Bubble."
+msgstr ""
+
+#: ../application/index/index.phtml
+msgid "Learn"
+msgstr ""
+
+#: ../application/index/index.phtml
+msgid "Feedback"
+msgstr ""
+
+#: ../application/index/index.phtml
+msgid "Let us know what you think."
+msgstr ""
+
+#: ../application/index/index.phtml
+msgid "Talk"
+msgstr ""
+
+#: ../application/index/index.phtml
+msgid "Blog"
+msgstr ""
+
+#: ../application/index/index.phtml
+msgid "Read about policies affecting your area."
+msgstr ""
+
+#: ../application/index/index.phtml
+msgid "Read"
+msgstr ""
+
+#: ../application/index/index.phtml
+msgid "Posts"
+msgstr ""
+
+#: ../application/index/index.phtml
+msgid "Tell how policies are affecting your area."
+msgstr ""
+
+#: ../application/index/index.phtml
+msgid "Tell"
+msgstr ""
+
+#: ../application/index/index.phtml
+msgid "Analysis"
+msgstr ""
+
+#: ../application/index/index.phtml
+msgid "See how policies are affecting your area."
+msgstr ""
+
+#: ../application/index/index.phtml
+msgid "See"
+msgstr ""
+
+#: ../view/error/index.phtml:1
+msgid "An error occurred"
+msgstr ""
+
+#: ../view/error/index.phtml:8
+msgid "Additional information"
+msgstr ""
+
+#: ../view/error/index.phtml:11 ../view/error/index.phtml:35
+msgid "File"
+msgstr ""
+
+#: ../view/error/index.phtml:15 ../view/error/index.phtml:39
+msgid "Message"
+msgstr ""
+
+#: ../view/error/index.phtml:19 ../view/error/index.phtml:43
+#: ../view/error/404.phtml:55
+msgid "Stack trace"
+msgstr ""
+
+#: ../view/error/index.phtml:29
+msgid "Previous exceptions"
+msgstr ""
+
+#: ../view/error/index.phtml:58
+msgid "No Exception available"
+msgstr ""
+
+#: ../config/module.config.php
+msgid "settings"
+msgstr ""
+
+#: ../config/module.config.php
+msgid "blog"
+msgstr ""
+
+#: ../config/module.config.php
+msgid "posts"
+msgstr ""
+
+#: ../config/module.config.php
+msgid "images"
+msgstr ""
+
+#: ../config/module.config.php
+msgid "videos"
+msgstr ""
+
+#: ../config/module.config.php
+msgid "audio"
+msgstr ""
+
+#: ../config/module.config.php
+msgid "contactus"
+msgstr ""
+
+#: ../config/module.config.php
+msgid "about"
+msgstr ""
+
+#: ../config/module.config.php
+msgid "privacypolicy"
+msgstr ""
+
+#: ../config/module.config.php
+msgid "disclosurepolicy"
+msgstr ""
+
+#: ../config/module.config.php
+msgid "termsofservice"
+msgstr ""
+
+#: ../config/module.config.php
+msgid "analysis"
+msgstr ""
+
+#: /Users/config/module.config.php
+msgid "login"
+msgstr ""
+
+#: /Users/config/module.config.php
+msgid "logout"
+msgstr ""
+
+#: /Users/config/module.config.php
+msgid "not-authorized"
+msgstr ""
+
+#: /Users/config/module.config.php
+msgid "reset-password"
+msgstr ""
+
+#: /Users/config/module.config.php
+msgid "users"
+msgstr ""
+
+#: /Users/config/module.config.php
+msgid "roles"
+msgstr ""
+
+#: /Users/config/module.config.php
+msgid "permissions"
+msgstr ""
+
+#: /Users/config/module.config.php
+msgid "registration"
+msgstr ""
+
+#: ../view/error/404.phtml:1
+msgid "A 404 error occurred"
+msgstr ""
+
+#: ../view/error/404.phtml:10
+msgid "The requested controller was unable to dispatch the request."
+msgstr ""
+
+#: ../view/error/404.phtml:13
+msgid "The requested controller could not be mapped to an existing controller class."
+msgstr ""
+
+#: ../view/error/404.phtml:16
+msgid "The requested controller was not dispatchable."
+msgstr ""
+
+#: ../view/error/404.phtml:19
+msgid "The requested URL could not be matched by routing."
+msgstr ""
+
+#: ../view/error/404.phtml:22
+msgid "We cannot determine at this time why a 404 was generated."
+msgstr ""
+
+#: ../view/error/404.phtml:34
+msgid "Controller"
+msgstr ""
+
+#: ../view/error/404.phtml:41
+#, php-format
+msgid "resolves to %s"
+msgstr ""
+
+#: ../view/error/404.phtml:51
+msgid "Exception"
+msgstr ""

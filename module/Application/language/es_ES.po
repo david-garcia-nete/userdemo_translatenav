@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Policy Bubble\n"
+"POT-Creation-Date: 2018-04-15 16:10-0400\n"
+"PO-Revision-Date: 2018-04-16 13:14-0400\n"
+"Last-Translator: David Garcia <david.garcia.nete@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ../view\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ../src/Service/NavManager.php:
+msgid "Home"
+msgstr "Inicio"
+
+#: ../view/layout/layout.phtml:
+msgid "by"
+msgstr "por"
+
+#: ../view/layout/layout.phtml:
+msgid "All rights reserved."
+msgstr "Todos los derechos reservados."
+
+#: ../view/layout/layout.phtml:
+msgid "Privacy Policy"
+msgstr "Política de Privacidad"
+
+#: ../view/layout/layout.phtml:
+msgid "Disclosure Policy"
+msgstr "Política de Divulgación"
+
+#: ../view/layout/layout.phtml:
+msgid "Terms of Service"
+msgstr "Términos de Servicio"
+
+#: ../application/index/index.phtml
+msgid "Submit"
+msgstr "Enviar"
+
+#: ../application/index/index.phtml
+msgid "Welcome to"
+msgstr "Bienvendio a"
+
+#: ../application/index/index.phtml
+msgid "This is a place where policy can be improved."
+msgstr "Este es un lugar donde se puede mejorar la política."
+
+#: ../application/index/index.phtml
+msgid "About"
+msgstr "Sobre"
+
+#: ../application/index/index.phtml
+msgid "Learn about Policy Bubble."
+msgstr "Obtenga información sobre Policy Bubble."
+
+#: ../application/index/index.phtml
+msgid "Learn"
+msgstr "Aprender"
+
+#: ../application/index/index.phtml
+msgid "Feedback"
+msgstr "Reacción "
+
+#: ../application/index/index.phtml
+msgid "Let us know what you think."
+msgstr "Háganos saber lo que piensas."
+
+#: ../application/index/index.phtml
+msgid "Talk"
+msgstr "Hablar"
+
+#: ../application/index/index.phtml
+msgid "Blog"
+msgstr "Blog"
+
+#: ../application/index/index.phtml
+msgid "Read about policies affecting your area."
+msgstr "Lea sobre las políticas que afectan su área."
+
+#: ../application/index/index.phtml
+msgid "Read"
+msgstr "Leer"
+
+#: ../application/index/index.phtml
+msgid "Posts"
+msgstr "Correo"
+
+#: ../application/index/index.phtml
+msgid "Tell how policies are affecting your area."
+msgstr "Explica cómo las políticas afectan tu área."
+
+#: ../application/index/index.phtml
+msgid "Tell"
+msgstr "Decir"
+
+#: ../application/index/index.phtml
+msgid "Analysis"
+msgstr "Análisis"
+
+#: ../application/index/index.phtml
+msgid "See how policies are affecting your area."
+msgstr "Vea cómo las políticas están afectando su área."
+
+#: ../application/index/index.phtml
+msgid "See"
+msgstr "Ver"
+
+msgid "An error occurred"
+msgstr "Ha ocurrido un error"
+
+msgid "Additional information"
+msgstr "Información adicional"
+
+msgid "File"
+msgstr "Archivo"
+
+msgid "Message"
+msgstr "Mensaje"
+
+msgid "Stack trace"
+msgstr "Seguimiento de la pila (stack trace)"
+
+msgid "Previous exceptions"
+msgstr "Excepciones anteriores"
+
+msgid "No Exception available"
+msgstr "No hay ninguna Excepción disponible."
+
+#: ../config/module.config.php
+msgid "settings"
+msgstr "configuracion"
+
+#: ../config/module.config.php
+msgid "blog"
+msgstr "blog"
+
+#: ../config/module.config.php
+msgid "posts"
+msgstr "correo"
+
+#: ../config/module.config.php
+msgid "images"
+msgstr "imagenes"
+
+#: ../config/module.config.php
+msgid "videos"
+msgstr "videos"
+
+#: ../config/module.config.php
+msgid "audio"
+msgstr "audio"
+
+#: ../config/module.config.php
+msgid "contactus"
+msgstr "contactenos"
+
+#: ../config/module.config.php
+msgid "about"
+msgstr "sobre"
+
+#: ../config/module.config.php
+msgid "privacypolicy"
+msgstr "politicadeprivacidad"
+
+#: ../config/module.config.php
+msgid "disclosurepolicy"
+msgstr "politicadedivulgacion"
+
+#: ../config/module.config.php
+msgid "termsofservice"
+msgstr "terminosdeservicio"
+
+#: ../config/module.config.php
+msgid "analysis"
+msgstr "analisis"
+
+#: /Users/config/module.config.php
+msgid "login"
+msgstr "login"
+
+#: /Users/config/module.config.php
+msgid "logout"
+msgstr "cierredesesion"
+
+#: /Users/config/module.config.php
+msgid "not-authorized"
+msgstr "no-autorizado"
+
+#: /Users/config/module.config.php
+msgid "reset-password"
+msgstr "restablecer-la-contrasena"
+
+#: /Users/config/module.config.php
+msgid "users"
+msgstr "usuarios"
+
+#: /Users/config/module.config.php
+msgid "roles"
+msgstr "papeles"
+
+#: /Users/config/module.config.php
+msgid "permissions"
+msgstr "permisos"
+
+#: /Users/config/module.config.php
+msgid "registration"
+msgstr "inscripcion"
+
+msgid "A 404 error occurred"
+msgstr "Ha ocurrido un error 404"
+
+msgid "The requested controller was unable to dispatch the request."
+msgstr "El controlador solicitado no pudo ejecutar la petición."
+
+msgid "The requested controller could not be mapped to an existing controller class."
+msgstr "El controlador solicitado no se pudo mapear con una clase de controlador existente."
+
+msgid "The requested controller was not dispatchable."
+msgstr "El controlador solicitado no es ejecutable."
+
+msgid "The requested URL could not be matched by routing."
+msgstr "El ruteador no ha encontrado la ruta para la URL solicitada."
+
+msgid "We cannot determine at this time why a 404 was generated."
+msgstr "No pudimos determinar por qué un error 404 ha sido generado."
+
+msgid "Controller"
+msgstr "Controller"
+
+msgid "resolves to %s"
+msgstr "se resuelve a %s"
+
+msgid "Exception"
+msgstr "Excepción"
