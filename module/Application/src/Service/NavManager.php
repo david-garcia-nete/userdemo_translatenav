@@ -19,16 +19,14 @@ class NavManager
      */
     private $urlHelper;
     
-    private $translator;
     
     /**
      * Constructs the service.
      */
-    public function __construct($authService, $urlHelper, $translator) 
+    public function __construct($authService, $urlHelper) 
     {
         $this->authService = $authService;
         $this->urlHelper = $urlHelper;
-         $this->translator = $translator;
     }
     
     /**
@@ -41,7 +39,7 @@ class NavManager
         
         $items[] = [
             'id' => 'home',
-            'label' => $this->translator->translate('Home'),
+            'label' => 'Home',
             'link'  => $url('home')
         ];
         

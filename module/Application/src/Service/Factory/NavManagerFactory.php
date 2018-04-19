@@ -19,8 +19,8 @@ class NavManagerFactory
         
         $viewHelperManager = $container->get('ViewHelperManager');
         $urlHelper = $viewHelperManager->get('url');
-        $translator = $container->get('translator');
+        //$translator = $container->get('MvcTranslator');
         
-        return new NavManager($authService, $urlHelper, $translator);
+        return new NavManager($authService, $urlHelper);
     }
 }
